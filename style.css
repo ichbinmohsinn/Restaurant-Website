@@ -1,0 +1,92 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: #2F3035;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(images/bg-image-adare.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+
+header {
+    height: 118px;
+    text-align: center;
+}
+
+
+nav {
+    background-color: rgba(0, 0, 0, 0.349);
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+main {
+    height: 400px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.705);
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-bottom: 40px;
+}
+
+h1 {
+    font-size: 84px;
+    color: white;
+}
+
+
+p {
+    font-size: 18px;
+    color: white;
+}
+
+a {
+    color: white;
+    /* text-decoration: none; */
+}
+
+a:hover {
+    color: red
+}
+
+/* Styling Call to Action in the main */
+.cta {
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+footer p {
+    font-size: 14px;
+    color: rgb(211, 211, 211);
+}
+
+.maps {
+    padding-bottom: 100px;
+}
